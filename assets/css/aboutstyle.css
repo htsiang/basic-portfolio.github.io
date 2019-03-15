@@ -1,0 +1,12 @@
+#profilepic {
+    float: left;
+
+    margin-right: 15px;
+    margin-bottom: 15px;
+}
+
+/* .clearfix::before {
+    content: "";
+    clear: both;
+    display: table;
+} */
